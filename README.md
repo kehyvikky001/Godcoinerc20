@@ -1,9 +1,3 @@
-# Godcoinerc20
-
-/**
- *Submitted for verification at Etherscan.io on 2020-07-06
-*/
-
 pragma solidity ^0.4.16;
 
 contract owned {
